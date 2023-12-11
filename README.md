@@ -1,4 +1,4 @@
-![image](image.svg)
+![image](image.jpg)
 
 Caratteri: [Dissenso](https://github.com/m-casanova/DisSenso/) |
 [In die busillis](https://github.com/m-casanova/In-die-busillis) |
