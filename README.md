@@ -1,3 +1,5 @@
+![image](font_test.gif)
+
 Caratteri: [Dissenso](https://github.com/m-casanova/DisSenso/) |
 [In die busillis](https://github.com/m-casanova/In-die-busillis) |
 [Infido](https://github.com/m-casanova/Infido) |
