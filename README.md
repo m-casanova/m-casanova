@@ -2,6 +2,7 @@
 
 Caratteri:
 [Alma Virgo](https://github.com/m-casanova/AlmaVirgo/) |
+[Capo Lombardo](https://github.com/m-casanova/CapoLombardo/) |
 [Capolinea](https://github.com/m-casanova/Capolinea/) |
 [Dissenso](https://github.com/m-casanova/DisSenso/) |
 [In die busillis](https://github.com/m-casanova/In-die-busillis) |
