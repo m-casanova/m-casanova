@@ -1,6 +1,5 @@
 ![image](font_test.jpg)
 
-Caratteri:
 [Alma Virgo](https://github.com/m-casanova/AlmaVirgo/) |
 [Capo Lombardo](https://github.com/m-casanova/CapoLombardo/) |
 [Capolinea](https://github.com/m-casanova/Capolinea/) |
