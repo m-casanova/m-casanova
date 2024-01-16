@@ -5,6 +5,7 @@
 [Capolinea](https://github.com/m-casanova/Capolinea/) |
 [Dissenso](https://github.com/m-casanova/DisSenso/) |
 [Hoc Opus](https://github.com/m-casanova/HocOpus/) |
+[Ici Gist](https://github.com/m-casanova/IciGist) |
 [In die busillis](https://github.com/m-casanova/In-die-busillis) |
 [Infido](https://github.com/m-casanova/Infido) |
 [Pass A38](https://github.com/m-casanova/Pass-A38) |
