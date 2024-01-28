@@ -1,9 +1,9 @@
-[Alma Virgo](https://github.com/m-casanova/AlmaVirgo/) |
-[Capo Cresci](https://github.com/m-casanova/CapoCresci/) |
-[Capo Lombardo](https://github.com/m-casanova/CapoLombardo/) |
-[Capolinea](https://github.com/m-casanova/Capolinea/) |
-[Dissenso](https://github.com/m-casanova/DisSenso/) |
-[Hoc Opus](https://github.com/m-casanova/HocOpus/) |
+[Alma Virgo](https://github.com/m-casanova/AlmaVirgo) |
+[Capo Cresci](https://github.com/m-casanova/CapoCresci) |
+[Capo Lombardo](https://github.com/m-casanova/CapoLombardo) |
+[Capolinea](https://github.com/m-casanova/Capolinea) |
+[Dissenso](https://github.com/m-casanova/DisSenso) |
+[Hoc Opus](https://github.com/m-casanova/HocOpus) |
 [Ici Gist](https://github.com/m-casanova/IciGist) |
 [In die busillis](https://github.com/m-casanova/In-die-busillis) |
 [Infido](https://github.com/m-casanova/Infido) |
