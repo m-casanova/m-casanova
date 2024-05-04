@@ -2,7 +2,8 @@
 ![](font_vari.jpg)
 <a href="https://github.com/m-casanova/AlmaVirgo">Alma Virgo</a>
 | <a href="https://github.com/m-casanova/AndiamoABruciargliLaCasa">Andiamo a bruciargli la casa</a>
-| <a href="https://github.com/m-casanova/CaneNero">Cane Nero</a> (ultima aggiunta)
+| <a href="https://github.com/m-casanova/CaneNero">Cane Nero</a>
+| <a href="https://github.com/m-casanova/Capo1880">Capo 1880</a>*
 | <a href="https://github.com/m-casanova/CapoCresci">Capo Cresci</a>
 | <a href="https://github.com/m-casanova/CapoLombardo">Capo Lombardo</a>
 | <a href="https://github.com/m-casanova/Capolinea">Capolinea</a>
