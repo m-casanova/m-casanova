@@ -6,7 +6,7 @@
 | <a href="https://github.com/m-casanova/Capo1880">Capo 1880</a>
 | <a href="https://github.com/m-casanova/CapoCresci">Capo Cresci</a>
 | <a href="https://github.com/m-casanova/CapoLombardo">Capo Lombardo</a>
-| __<a href="https://github.com/m-casanova/Capolinea">Capo Verso</a>__
+| __<a href="https://github.com/m-casanova/CapoVerso">Capo Verso</a>__
 | <a href="https://github.com/m-casanova/Capolinea">Capolinea</a>
 | <a href="https://github.com/m-casanova/DisSenso">Dissenso</a>
 | <a href="https://github.com/m-casanova/HocOpus">Hoc Opus</a>
