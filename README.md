@@ -19,6 +19,7 @@ __OFL Fonts__ <a href="https://github.com/m-casanova/AlmaVirgo">Alma Virgo</a>
 – <a href="https://github.com/m-casanova/IciGist">Ici Gist</a>
 – <a href="https://github.com/m-casanova/In-die-busillis">In die busillis</a>
 – <a href="https://github.com/m-casanova/Infido">Infido</a>
+– <a href="https://github.com/m-casanova/MultaPecunia">Multa Pecunia</a>
 – <a href="https://github.com/m-casanova/Pass-A38">Pass A38</a>
 – <a href="https://github.com/m-casanova/PreTesto">PreTesto</a>
 – <a href="https://github.com/m-casanova/SprangaLongobarda">Spranga Longobarda</a>
