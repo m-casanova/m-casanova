@@ -13,6 +13,7 @@ __OFL Fonts__
 * __Capolettera__: <a href="https://github.com/m-casanova/AlmaVirgo">Alma Virgo</a> |
 <a href="https://github.com/m-casanova/CaneNero">Cane Nero</a> |
 <a href="https://github.com/m-casanova/Capo1880">Capo 1880</a> |
+<a href="https://github.com/m-casanova/CapoCorale">Capo Corale</a> |
 <a href="https://github.com/m-casanova/CapoCresci">Capo Cresci</a> |
 <a href="https://github.com/m-casanova/CapoLombardo">Capo Lombardo</a> |
 <a href="https://github.com/m-casanova/CapoVerso">Capo Verso</a> |
