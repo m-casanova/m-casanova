@@ -15,6 +15,7 @@ __OFL Fonts__
 <a href="https://github.com/m-casanova/Capo1880">Capo 1880</a> |
 <a href="https://github.com/m-casanova/CapoCorale">Capo Corale</a> |
 <a href="https://github.com/m-casanova/CapoCresci">Capo Cresci</a> |
+<a href="https://github.com/m-casanova/CapoEcclesia">Capo Ecclesia</a> |
 <a href="https://github.com/m-casanova/CapoLombardo">Capo Lombardo</a> |
 <a href="https://github.com/m-casanova/CapoVerso">Capo Verso</a> |
 <a href="https://github.com/m-casanova/Capolinea">Capolinea</a> |
