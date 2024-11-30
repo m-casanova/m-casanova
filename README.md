@@ -1,6 +1,6 @@
-## Evoluzione dei comuni italiani
+## ComunItaliani
 
-[Dati estratti da SITUAS (Istat)](https://github.com/m-casanova/ci)
+[Dati sull'evoluzione dei comuni italiani](https://github.com/m-casanova/ci)
 
 ## Font
 
