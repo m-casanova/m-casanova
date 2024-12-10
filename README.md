@@ -10,7 +10,7 @@
 
 → <a href="https://github.com/m-casanova/DisSenso">DisSenso</a>
 
-![](https://m-casanova.github.io/DisSenso/dissenso.jpg)
+![](https://m-casanova.github.io/DisSenso/images/dissenso.jpg)
 
 __OFL Fonts__ 
 * __Medievalia__: <a href="https://github.com/m-casanova/AndiamoABruciargliLaCasa">Andiamo a bruciargli la casa</a> |
