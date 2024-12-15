@@ -38,6 +38,7 @@ __OFL Fonts__
 <a href="https://github.com/m-casanova/Pass-A38">Pass A38</a> |
 <a href="https://github.com/m-casanova/PublicaIgnominia">Publica Ignominia</a> |
 <a href="https://github.com/m-casanova/titoliDiTesta">Titoli Di Testa</a>
-* __Serif__: <a href="https://github.com/m-casanova/PreTesto">PreTesto</a> |
+* __Serif__: <a href="https://github.com/m-casanova/IctuOculi">Ictu Oculi</a> |
+<a href="https://github.com/m-casanova/PreTesto">PreTesto</a> |
 <a href="https://github.com/m-casanova/Vermiglione">Vermiglione</a>
 * __Esperimenti__: <a href="https://github.com/m-casanova/Ziffera-veneta">Ziffera veneta</a>
