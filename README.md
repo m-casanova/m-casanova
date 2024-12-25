@@ -34,7 +34,8 @@ __OFL Fonts__
 <a href="https://github.com/m-casanova/Infido">Infido</a> |
 <a href="https://github.com/m-casanova/Vitin">Vitin</a> |
 <a href="https://github.com/m-casanova/Vulnus">Vulnus</a>
-* __Sans Serif__: <a href="https://github.com/m-casanova/MultaPecunia">Multa Pecunia</a> |
+* __Sans Serif__: <a href="https://github.com/m-casanova/GaramontioSans">Garamontio Sans</a> |
+<a href="https://github.com/m-casanova/MultaPecunia">Multa Pecunia</a> |
 <a href="https://github.com/m-casanova/Pass-A38">Pass A38</a> |
 <a href="https://github.com/m-casanova/PublicaIgnominia">Publica Ignominia</a> |
 <a href="https://github.com/m-casanova/titoliDiTesta">Titoli Di Testa</a>
