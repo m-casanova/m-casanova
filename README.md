@@ -29,7 +29,8 @@ __OFL Fonts__
 <a href="https://github.com/m-casanova/CapoVerso">Capo Verso</a> |
 <a href="https://github.com/m-casanova/Capolinea">Capolinea</a> |
 <a href="https://github.com/m-casanova/HocOpus">Hoc Opus</a> |
-<a href="https://github.com/m-casanova/IciGist">Ici Gist</a>
+<a href="https://github.com/m-casanova/IciGist">Ici Gist</a> |
+<a href="https://github.com/m-casanova/PassA38Capo">Pass A38 Capo</a>
 * __Ottocenteschi__: <a href="https://github.com/m-casanova/DisSenso">DisSenso</a> |
 <a href="https://github.com/m-casanova/Infido">Infido</a> |
 <a href="https://github.com/m-casanova/Vitin">Vitin</a> |
