@@ -46,5 +46,6 @@ __OFL Fonts__
 <a href="https://github.com/m-casanova/GrazieMille">Grazie mille</a> |
 <a href="https://github.com/m-casanova/IctuOculi">Ictu Oculi</a> |
 <a href="https://github.com/m-casanova/PreTesto">PreTesto</a> |
+<a href="https://github.com/m-casanova/Testuale">Testuale</a> |
 <a href="https://github.com/m-casanova/Vermiglione">Vermiglione</a>
 * __Esperimenti__: <a href="https://github.com/m-casanova/Ziffera-veneta">Ziffera veneta</a>
