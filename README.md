@@ -6,11 +6,11 @@
 
 → <a href="https://github.com/m-casanova/Pass-A38">Pass A38</a> da _Titillium Web_
 
-![](https://m-casanova.github.io/Pass-A38/images/Pass_A38.jpg)
+<a href="https://github.com/m-casanova/Pass-A38">![](https://m-casanova.github.io/Pass-A38/images/Pass_A38.jpg)</a>
 
 → <a href="https://github.com/m-casanova/DisSenso">DisSenso</a>
 
-![](https://m-casanova.github.io/DisSenso/images/dissenso.jpg)
+<a href="https://github.com/m-casanova/DisSenso">![](https://m-casanova.github.io/DisSenso/images/dissenso.jpg)</a>
 
 __OFL Fonts__ 
 * __Medievalia__: <a href="https://github.com/m-casanova/AndiamoABruciargliLaCasa">Andiamo a bruciargli la casa</a> |
