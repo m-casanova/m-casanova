@@ -23,6 +23,7 @@ __OFL Fonts__
 <a href="https://github.com/m-casanova/CapoBicolore">Capo Bicolore</a> |
 <a href="https://github.com/m-casanova/CapoCorale">Capo Corale</a> |
 <a href="https://github.com/m-casanova/CapoCresci">Capo Cresci</a> |
+<a href="https://github.com/m-casanova/CapoDecoro">Capo Decoro</a> |
 <a href="https://github.com/m-casanova/CapoEcclesia">Capo Ecclesia</a> |
 <a href="https://github.com/m-casanova/CapoLombardo">Capo Lombardo</a> |
 <a href="https://github.com/m-casanova/CapoNodi">Capo Nodi</a> |
