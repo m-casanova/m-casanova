@@ -27,6 +27,7 @@ __OFL Fonts__
 <a href="https://github.com/m-casanova/CapoEcclesia">Capo Ecclesia</a> |
 <a href="https://github.com/m-casanova/CapoLombardo">Capo Lombardo</a> |
 <a href="https://github.com/m-casanova/CapoNodi">Capo Nodi</a> |
+<a href="https://github.com/m-casanova/CapoRose">Capo Rose</a> |
 <a href="https://github.com/m-casanova/CapoVerso">Capo Verso</a> |
 <a href="https://github.com/m-casanova/Capolinea">Capolinea</a> |
 <a href="https://github.com/m-casanova/HocOpus">Hoc Opus</a> |
