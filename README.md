@@ -4,13 +4,17 @@
 
 ## Font
 
+→ <a href="https://github.com/m-casanova/Garamontio">Garamontio</a> da _EB Garamond_
+
+<a href="https://github.com/m-casanova/Garamontio">![image](Garamontio_info.jpg)</a>
+
 → <a href="https://github.com/m-casanova/Pass-A38">Pass A38</a> da _Titillium Web_
 
-<a href="https://github.com/m-casanova/Pass-A38">![](https://m-casanova.github.io/Pass-A38/images/Pass_A38.jpg)</a>
+<a href="https://github.com/m-casanova/Pass-A38">![](PassA38_info.jpg)</a>
 
 → <a href="https://github.com/m-casanova/DisSenso">DisSenso</a>
 
-<a href="https://github.com/m-casanova/DisSenso">![](https://m-casanova.github.io/DisSenso/images/dissenso.jpg)</a>
+<a href="https://github.com/m-casanova/DisSenso">![](DisSenso_info.jpg)</a>
 
 __OFL Fonts__ 
 * __Medievalia__: <a href="https://github.com/m-casanova/AndiamoABruciargliLaCasa">Andiamo a bruciargli la casa</a> |
